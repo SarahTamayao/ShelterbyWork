@@ -33,6 +33,10 @@ Bonus
 - setup logout - In Progress
 
 
+**Sprint 2**
+User chooses which company location they need to find a place to live. - Done
+
+
 **Required Must-have Stories**
 
 * App shows a map similar to zillow
